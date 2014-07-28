@@ -5,18 +5,18 @@ function __autoload($name) {
 }
 
 // The OAuth credentials you received when registering your app at Twitter
-define("TWITTER_CONSUMER_KEY", "LDxLThcqVXlUQ1YLRROmrNC7l");
-define("TWITTER_CONSUMER_SECRET", "aNRbtvLUIxOSPgULF6HjPfIjJT7KcwRLOKdPNDpwLp9gv2FqL7");
+define("TWITTER_CONSUMER_KEY", "");
+define("TWITTER_CONSUMER_SECRET", "");
 
 
 // The OAuth data for the twitter account
-define("OAUTH_TOKEN", "6865742-m78yK8wKPQoW00gBZTL1u1PcJ4pFAi6J2FkWqR10y2");
-define("OAUTH_SECRET", "e9jIQvBkeHSfDWsNGXklmQXm9Qq3fYUspBBExRUQy2RN7");
+define("OAUTH_TOKEN", "");
+define("OAUTH_SECRET", "");
 
 // Database settings
 define("HOST", '127.0.0.1');
-define("USER", 'root');
-define("PASSWORD", 'RkE8a}j/8B}7t8G6');
+define("USER", '');
+define("PASSWORD", '');
 define("DATABASE", 'tweets');
 
 // Dir to store pid files
